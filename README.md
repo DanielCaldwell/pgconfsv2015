@@ -10,7 +10,7 @@ The tutorial will present the following:
 - Importing data into the PostgreSQL database using GDAL (http://www.gdal.org)
 - Learn about coordinate systems, projections, and how to deal with them
 - Running some spatial queries to analyze the data 
-- Converting from geodetic to geographic coordinate systems
+- Working with geographic and metric distances
 - Visualize the data using TileStache (http://tilestache.org/) and Mapnik (http://mapnik.org/)
 
 For more information on the conference, please visit: http://www.pgconfsv.com/
