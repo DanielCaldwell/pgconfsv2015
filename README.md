@@ -9,7 +9,7 @@ The tutorial will present the following:
 - Installing the PostGIS Extension (http://postgis.net/)
 - Importing data into the PostgreSQL database using GDAL (http://www.gdal.org)
 - Learn about coordinate systems, projections, and how to deal with them
-- Running some spatial queries to analyze the data 
+- Running spatial queries to analyze the data 
 - Working with geographic and metric distances
 - Visualize the data using TileStache (http://tilestache.org/) and Mapnik (http://mapnik.org/)
 
