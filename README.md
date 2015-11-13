@@ -15,3 +15,13 @@ The tutorial will present the following:
 
 For more information on the conference, please visit: http://www.pgconfsv.com/
 
+
+## Machine setup
+To setup for this tutorial we will be using Vagrant to configure and setup a VirtualBox Virtual Machine. Please install the following packages: 
+
+- Git (https://git-scm.com)
+- VirtualBox (https://www.virtualbox.org/wiki/Downloads)
+- Vagrant (https://www.vagrantup.com/downloads.html)
+
+Once you have these installed, clone this git repository to your machine and run the vagrant script provided.
+
