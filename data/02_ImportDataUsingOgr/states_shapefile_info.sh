@@ -1,0 +1,3 @@
+ogrinfo -so \
+        states \
+        states  

@@ -17,11 +17,25 @@ For more information on the conference, please visit: http://www.pgconfsv.com/
 
 
 ## Machine setup
-To setup for this tutorial we will be using Vagrant to configure and setup a VirtualBox Virtual Machine. Please install the following packages: 
+
+There are two options for setting up to do the exercises with this tutorial.
+
+### Option 1: 
+
+Create a trial account at www.amigocloud.com. AmigoCloud's advanced queries allow you to learn PostGIS without a lot of setup and configuration. 
+
+### Option 2: 
+
+Use Vagrant to set up a virtual machine that will be used as the PostgreSQL and TileStache server. To setup for this you will need to install the following: 
 
 - Git (https://git-scm.com)
 - VirtualBox (https://www.virtualbox.org/wiki/Downloads)
 - Vagrant (https://www.vagrantup.com/downloads.html)
+- QGIS (http://www.qgis.org/en/site/)
+- QGIS's PostGIS Sql Plugin 
 
-Once you have these installed, clone this git repository to your machine and run the vagrant script provided.
+Once you have these installed, clone this git repository to your machine and run the vagrant script provided to setup the machine.
+
+
+
 
